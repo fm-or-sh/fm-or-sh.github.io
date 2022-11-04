@@ -58,10 +58,10 @@ plugins:
 author:
   name   : "FM - or - SH"
   avatar : "/assets/images/avatar.png"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Security research is an Art. I am not very good at it but surely one of the biggest admirer."
   location: "Somewhere"
   links:
-    - lable: "Linkedin"
+    - lable: "LinkedIn"
       icon: "fab fa-linkedin-in"
       url: "https://www.linkedin.com/in/fmbd/"
     - label: "Twitter"
