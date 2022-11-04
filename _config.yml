@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "FM - or - SH"
   avatar : "/assets/images/avatar.png"
-  bio    : "Security research is an Art. I might not be very good at it but surely one of the biggest admirer."
+  bio    : "Security research is an Art. I might not be good at it but surely one of the biggest admirer."
   location: "Somewhere"
   links:
     - lable: "LinkedIn"
