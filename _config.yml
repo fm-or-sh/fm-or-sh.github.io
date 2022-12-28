@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "FM - or - SH"
   avatar : "/assets/images/avatar.png"
-  bio    : "Security research is an Art. I might not be good at it but surely one of the biggest admirer."
+  bio    : "A Security researcher, with a passion for exploring the latest trends and technologies in security. Trying to share my thoughts, analysis and experiences with the security research community. Feel free to reach out with any suggestions in mind."
   location: "Somewhere"
   links:
     - lable: "LinkedIn"
