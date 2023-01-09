@@ -1,5 +1,14 @@
 ---
 published: true
+title: Local File Inclusion (LFI)
+date: 2022-12-10T23:34:30.000Z
+categories:
+  - blog
+tags:
+  - Linux
+  - WebApp
+  - RCE
+publish: ture
 ---
 # Introduction
 
