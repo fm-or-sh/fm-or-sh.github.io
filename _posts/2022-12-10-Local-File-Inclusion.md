@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ---
 title: "Local File Inclusion (LFI)"
