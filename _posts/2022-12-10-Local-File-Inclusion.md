@@ -234,13 +234,3 @@ TryHackMe  Cyber Security Training.” TryHackMe, tryhackme.com, https://tryhack
 Chauhan, Bhagyeshwari. “LFI and RFI Attacks - All You Need to Know - Astra Security Blog.” Astra Security Blog, www.getastra.com, 10 Aug. 2020, https://www.getastra.com/blog/cms/your-guide-to-defending-against-lfi-and-rfi-attacks/.
 
 Banach, Zbigniew. “What Is the Local File Inclusion (LFI) Vulnerability? Invicti.” Invicti, www.invicti.com, 10 May 2019, https://www.invicti.com/blog/web-security/local-file-inclusion-vulnerability/.
-
-
-
-
-
-
-
-
-
-
