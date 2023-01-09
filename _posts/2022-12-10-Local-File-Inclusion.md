@@ -8,7 +8,6 @@ tags:
   - Linux
   - WebApp
   - RCE
-publish: ture
 ---
 # Introduction
 
