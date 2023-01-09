@@ -11,6 +11,7 @@ tags:
   - WebApp
   - RCE
 ---
+
 # Introduction
 
 It is possible for an application that does not adhere to the secure coding method to be vulnerable to Local File Inclusion (LFI). To put it simply, a web application is vulnerable when users upload or input data into files on the server. An attacker uses an inclusion attack to get a response from a web server by supplying valid input. This will allow the attacker to judge whether the input he supplied is valid. As long as it is valid, an attacker will have easy access to whatever file they wish to see.
